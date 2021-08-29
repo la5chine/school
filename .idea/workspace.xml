@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="693b74a9-9940-4be6-ae8f-7172d84b29a3" name="Default Changelist" comment="project set up" />
+    <list default="true" id="e6f30c17-7c15-4231-a565-14ede594c5a3" name="Default Changelist" comment="set up Api-root endpoint with DRF and add user, group">
+      <change afterPath="$PROJECT_DIR$/school/classroom/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school/classroom/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/school/classroom/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school/classroom/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/school/classroom/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/school/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/school/urls.py" afterDir="false" />
+    </list>
+    <list id="6d9e735a-f676-4e45-8a6d-839bedbc99d5" name="set up Api-root endpoint with DRF and add user, group" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,20 +20,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1xOupGBWHzjQeHauSzz27QnJGQN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.django.DjangoModulesConfigurable" />
-  </component>
   <component name="RunManager">
-    <configuration name="classroom" type="Python.DjangoServer" factoryName="Django server">
+    <configuration name="Unnamed" type="Python.DjangoServer" factoryName="Django server" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -47,28 +46,16 @@
       <method v="2" />
     </configuration>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="693b74a9-9940-4be6-ae8f-7172d84b29a3" name="Default Changelist" comment="" />
-      <created>1630238638337</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1630238638337</updated>
-      <workItem from="1630238639681" duration="1017000" />
-    </task>
-    <task id="LOCAL-00001" summary="project set up">
-      <created>1630239453536</created>
+    <task id="LOCAL-00001" summary="set up Api-root endpoint with DRF and add user, group">
+      <created>1630241118642</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1630239453536</updated>
+      <updated>1630241118642</updated>
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -80,9 +67,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="project set up" />
-    <option name="LAST_COMMIT_MESSAGE" value="project set up" />
+    <MESSAGE value="set up Api-root endpoint with DRF and add user, group" />
+    <option name="LAST_COMMIT_MESSAGE" value="set up Api-root endpoint with DRF and add user, group" />
   </component>
 </project>
