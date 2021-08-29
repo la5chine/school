@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6f30c17-7c15-4231-a565-14ede594c5a3" name="Default Changelist" comment="set up Api-root endpoint with DRF and add user, group">
-      <change afterPath="$PROJECT_DIR$/school/classroom/serializers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/school/classroom/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/school/classroom/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/school/classroom/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/school/classroom/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/school/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/school/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/school/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/school/urls.py" afterDir="false" />
     </list>
     <list id="6d9e735a-f676-4e45-8a6d-839bedbc99d5" name="set up Api-root endpoint with DRF and add user, group" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +51,21 @@
       <option name="project" value="LOCAL" />
       <updated>1630241118642</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update gitignore">
+      <created>1630241413724</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1630241413724</updated>
+    </task>
+    <task id="LOCAL-00003" summary="set up Api-root endpoint with DRF and add user, group">
+      <created>1630241521945</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1630241521945</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -70,6 +81,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="update gitignore" />
     <MESSAGE value="set up Api-root endpoint with DRF and add user, group" />
     <option name="LAST_COMMIT_MESSAGE" value="set up Api-root endpoint with DRF and add user, group" />
   </component>
